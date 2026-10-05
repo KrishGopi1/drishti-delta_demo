@@ -65,9 +65,9 @@ They check the conformal p-value, CUSUM onset, persistence count, chi-square sur
 
 ## Team NOVA
 
-Roles: data pipeline, PCM statistics, retrieval and AI, web demo and design. Domain guidance from our mentor (PhD, remote sensing and AI).
+Roles: Neelakantha Reddy and Ananya Macha - data pipeline, Gopi Krish and Vamshika - PCM statistics, retrieval and AI, Johnson Oduri and Snehaja web demo and design. Domain guidance from our mentor (Dr. Ansith S, remote sensing and AI).
 
-## Honest scope
+## scope
 
 * Retrieval uses general CLIP in the browser; the production design uses RemoteCLIP on a server with Qdrant.
 * Imagery is one cloud-free composite per year (EOX Sentinel-2 cloudless), which stands in for HEK's season-free key.
